@@ -1,0 +1,16 @@
+{
+  "id": "nazoelectric.nazomacrosrecord",
+  "name": "NazoMacrosRecord",
+  "version": "1.0.0",
+  "developer": "NazoElectric",
+  "description": "Record, edit, and replay player inputs in Geometry Dash for practice and testing purposes.",
+  "geode": "4.0.0",
+  "gd": "2.207",
+  "platforms": ["windows", "android"],
+  "links": {
+    "source": "https://github.com/NazoElectric/NazoMacrosRecord"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  }
+}
