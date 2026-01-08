@@ -42,7 +42,7 @@ Saved in platform-independent folder via `geode::get_mod_folder()`
 
 ## Requirements
 - Geometry Dash 2.2  
-- Geode 3.0+  
+- Geode 4.0+  
 - Platforms: Windows & Android
 
 ## Credits
